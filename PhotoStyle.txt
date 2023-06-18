@@ -1,0 +1,8 @@
+Photo,DSLR
+Analog Photo
+Lomography Photo
+Pinhole Photo
+Wet-Plate Photo
+Daguerreotype
+Cyanotype
+Anthotype Photo
